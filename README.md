@@ -2,15 +2,12 @@
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peggiefu&theme=tokyonight" />
 </p>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=peggiefu"/>   
-   
+    <img src="https://github-readme-stats.vercel.app/api?username=peggiefu"/>
 </p> 
-
-
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=peggiefu&theme=tokyonight&hide_border=true" />
+
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=peggiefu&theme=tokyonight&hide_border=false" />
     <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peggiefu&theme=tokyonight" />
 </p>
