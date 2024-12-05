@@ -1,16 +1,12 @@
 <h2 align="center">My name is peggie fu</h2>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/peggiefu/stats/master/generated/overview.svg#gh-dark-mode-only"/>   
-    <img src="https://raw.githubusercontent.com/peggiefu/stats/master/generated/languages.svg#gh-dark-mode-only"/>
-</p> 
-<p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peggiefu&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=peggiefu"/>   
    
-</p>  -->
+</p> 
 
 
 <p align="center">
